@@ -1,7 +1,7 @@
 # Contemporary Issues In Data
 
 ## The importance of protecting the privacy of health data 
-I will summarize and discuss these two New York Times Opinion articles about the consequences of sharing personal health data. 
+I will summarize and discuss these two New York Times Opinion articles about the consequences of sharing personal health data. I also compare the two contrasting views of the authors and give my own thoughts. 
 
 ## Article 1
 ### [For a Longer, Healthier Life, Share Your Data](https://www.nytimes.com/2019/05/22/opinion/health-care-privacy-hipaa.html?searchResultPosition=20) 
